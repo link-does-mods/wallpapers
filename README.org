@@ -1,0 +1,7 @@
+#+TITLE: My Wallpapers
+
+#+CAPTION: Wallpaper Pack in Nitrogen
+#+ATTR_HTML: :alt Wallpaper Pack in Nitrogen :title Wallpaper Pack in Nitrogen : align left
+[[https://github.com/link-does-mods/wallpapers/blob/main/Screenshot.png?raw=true]]
+
+I'm constantly finding new wallpapers that I didn't know what to do with them all, so I decided to make this repository. You can find all my wallpapers here for your own use. More is added as I am finding more so be sure to check back to see what else has been added. I'm sure there's something here for everyone.
